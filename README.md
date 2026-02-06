@@ -104,5 +104,5 @@ API access for third-party apps
 
 👨‍💻 Author
 
-Shashwat Holkar
+
 📌 Engineering Student | AI & Cybersecurity Enthusiast
